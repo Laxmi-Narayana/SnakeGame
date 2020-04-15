@@ -1,0 +1,52 @@
+body {
+    position: absolute;
+    margin: 0;
+    margin-left: 200px;
+    overflow: hidden;
+    background-color: black;
+    color: white;
+}
+#one1 {
+    position: relative;
+    top: -10px;
+}
+#two2 {
+    position: relative;
+    left: 0px; 
+}
+
+.buttons button {
+    text-align: center;
+    padding: 10px;
+}
+#classic {
+    position: relative;
+    left: 90px;
+}
+#maze {
+    position: relative;
+    left: 100px;
+}
+.bbox {
+    position: relative;
+    height: 400px;
+    width: 400px;
+    margin: 0px;
+    left: 0px;
+    top: -60px;
+    border: 2px solid red;
+}
+.bbox1 {
+    position: relative;
+    height: 400px;
+    width: 400px;
+    margin: 0px;
+    left: 0px;
+    top: -60px;
+    border: 2px solid white;
+}
+#demo {
+    position: relative;
+    top: -75px;
+    left: 0px;
+}
